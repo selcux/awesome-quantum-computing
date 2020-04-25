@@ -32,6 +32,8 @@
 
 - [Teach-Me-Quantum](https://github.com/msramalho/Teach-Me-Quantum) - 10 week Practical Course on Quantum Information Science and Quantum Computing- with Qiskit and IBMQX
 
+- [How to get started in quantum computing](https://docs.google.com/presentation/d/1-GDBPYYbGq0i7EM5YvnmvW7CkzfBqwe8ccndlnwd_SA/edit#slide=id.p) - How to get started in quantum computing without PhD in Physics
+
 ## Blogs
 
 ## Development
