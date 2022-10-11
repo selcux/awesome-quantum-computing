@@ -34,6 +34,8 @@
 
 - [How to get started in quantum computing](https://docs.google.com/presentation/d/1-GDBPYYbGq0i7EM5YvnmvW7CkzfBqwe8ccndlnwd_SA/edit#slide=id.p) - How to get started in quantum computing without PhD in Physics
 
+- [Explore Quantum Computing](https://kandi.openweaver.com/explore/quantum-computing) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
+
 ## Blogs
 
 ## Development
